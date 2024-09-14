@@ -1,5 +1,5 @@
 # Machine-Learning-Project-CrimeForecast
-This Machine Learning project was completed on Kaggle as a part of gaining required credits for achieving Diploma in Data Science IITM.I secured an 'S' grade for the project.The competition was based on a Classification Problem with the LA crime dataset and i managed to achieve an Accuracy of 95.6 percent with my XGBoost Model.
+This Machine Learning project was completed on Kaggle as a part of gaining required credits for achieving Diploma in Data Science IITM.I secured an 'S' grade for the project.The competition was based on a Classification Problem with the LA crime dataset and i managed to achieve an Accuracy of 95.6 percent with my XGBoost Model.I also explored Logistic Regression and Random Forest models.
 
 The project procedure required meeting a cutoff of 80 percent and successfully clearing two vivas. The Level 2 viva was conducted by an industry professional.
 *Code available in the MLP final notebook file*
